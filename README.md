@@ -1,7 +1,7 @@
 # Github Report
 
 
-This is a node project in which I used TypedScript to fetch Github deatails of a user and show top 5 repos according to the number of forks on each repo in descending order.
+This is a node project in which I used TypeScript to fetch Github deatails of a user and show top 5 repos according to the number of forks on each repo in descending order.
 
 
 ### To run the app
